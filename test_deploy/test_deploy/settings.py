@@ -25,7 +25,9 @@ SECRET_KEY = 'qbl!a*g1#cw=uz_b*%b1r4i03*&wmphf(vx&ra&d2ykowkk@f('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['peaceful-basin-29500.herokuapp.com','127.0.0.1']
+# For example: 
+# ALLOWED_HOSTS = ['fathomless-scrubland-30645.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
