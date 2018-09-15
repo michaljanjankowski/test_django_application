@@ -1,1 +1,1 @@
-web: cd test_django_application/test_deploy; gunicorn test_deploy.wsgi --log-file -
+web: cd test_deploy; gunicorn test_deploy.wsgi --log-file -
